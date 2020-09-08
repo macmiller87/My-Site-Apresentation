@@ -10,5 +10,8 @@ Esse foi o resultado!
 
 Tecnologias Usadas!
 
+![css](https://user-images.githubusercontent.com/67304312/92474752-bb798f00-f1b2-11ea-9584-c90c65b9c576.png)
+![html5](https://user-images.githubusercontent.com/67304312/92474758-bc122580-f1b2-11ea-936b-d1cb5208ae13.png)
+
 
 
